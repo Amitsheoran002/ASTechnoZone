@@ -1,2 +1,2 @@
 # ASTechnoZone
-thisis commontrial website
+this is a website easy to use
